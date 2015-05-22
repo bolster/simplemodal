@@ -1,0 +1,19 @@
+{
+  "name": "simplemodal",
+  "version": "1.4.4",
+  "description": "[SimpleModal](http://simplemodal.com/) - A modal dialog framework for jQuery\r ================================",
+  "main": "src/jquery.simplemodal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolster/simplemodal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolster/simplemodal/issues"
+  },
+  "homepage": "https://github.com/bolster/simplemodal"
+}
